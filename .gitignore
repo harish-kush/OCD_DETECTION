@@ -3,3 +3,4 @@ datasets/final_dataset.csv
 datasets/ocd_dataset.parquet
 .ipynb_checkpoints
 .virtual_documents
+*.npy
