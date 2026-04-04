@@ -4,3 +4,5 @@ datasets/ocd_dataset.parquet
 .ipynb_checkpoints
 .virtual_documents
 *.npy
+datasets/balanced_ocd_dataset.parquet
+datasets/final_structured.parquet
